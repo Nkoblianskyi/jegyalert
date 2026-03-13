@@ -144,7 +144,7 @@ export function getEventDescription(eventId: number): string {
 
 export const partners = [
     { name: "Jegy.hu", url: "https://jegy.hu", specialty: "Koncert, Sport, Fesztivál" },
-    { name: "Eventim HU", url: "https://eventim.hu", specialty: "Koncert, Színház, Sport" },
+    { name: "Eventim HU", url: "https://www.eventim.hu", specialty: "Koncert, Színház, Sport" },
     { name: "StubHub", url: "https://stubhub.com", specialty: "Másodpiac" },
     { name: "Viagogo", url: "https://viagogo.com", specialty: "Koncert, Sport, Fesztivál" },
     { name: "Tixa", url: "https://tixa.hu", specialty: "Fesztivál, Helyi" },
