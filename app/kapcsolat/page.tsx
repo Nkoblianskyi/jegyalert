@@ -164,7 +164,10 @@ export default function ContactPage() {
                 </span>
                 <div>
                   <h3 className="font-bold text-foreground text-lg mb-2">Székhely</h3>
-                  <p className="text-muted-foreground leading-relaxed">Budapest, Magyarország</p>
+                  <p className="text-muted-foreground leading-relaxed">
+                    1134 Budapest, Váci út 45.<br />
+                    <span className="text-muted-foreground/80">Váci Greens irodaház</span>
+                  </p>
                 </div>
               </div>
             </div>

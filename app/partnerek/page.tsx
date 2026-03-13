@@ -14,7 +14,7 @@ const partners = [
   },
   {
     name: "Eventim HU",
-    url: "https://eventim.hu",
+    url: "https://www.eventim.hu",
     desc: "Az európai Eventim hálózat magyar leányvállalata. Nemzetközi sztárok és nagy arénás show-k mellett színház, klasszikus koncertek is. Biztonságos vásárlás, világszínvonalú platform.",
     specialty: "Koncert, Színház, Sport",
     note: "Gyakran jó árak a nagy eseményekre.",
